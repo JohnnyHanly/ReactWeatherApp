@@ -20,7 +20,7 @@ install node.js, clone this repo, and run in VCS.
 
 * [ReactJS](https://reactjs.org/) - The web framework used
 * [Dark Sky API](https://darksky.net/dev)
-* [Google Geocoding API] (https://developers.google.com/maps/documentation/geocoding/start)
+* [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/start)
 
 ## Authors
   [Johnny Hanly](https://github.com/JohnnyHanly)
