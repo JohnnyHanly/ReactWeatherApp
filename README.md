@@ -4,6 +4,15 @@ A simple website build with React to display the current weather and weekly fore
 zipcode or city name to view its weather
 
 
+![alt text](https://i.imgur.com/6r6YsPC.png "Logo Title Text 1")
+![alt text](https://i.imgur.com/azSwPDY.png "Logo Title Text 1")
+![alt text](https://i.imgur.com/7dVsdiH.png "Logo Title Text 1")
+![alt text](https://i.imgur.com/GsDtGoX.png "Logo Title Text 1")
+
+
+
+
+
 ### Prerequisites
 
 ```
